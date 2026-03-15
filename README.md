@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Siddhartha Prasad
 
+🎓 **B.Tech in Mechanical Engineering** with a **Minor in Computer Science & Engineering** from  
+**Indian Institute of Technology Dharwad (IIT Dharwad)**
+
+---
+
 - 👀 I’m interested in **Software Development and Graphic Designing**
 - 🌱 I’m currently learning **Full Stack Development (React, Node.js, Express, MongoDB)**
 - 💞️ I’m looking to collaborate on **open-source projects and full-stack web applications**
@@ -10,6 +15,7 @@
 ---
 
 ## 🚀 Tech Stack
+
 **Frontend:**  
 React, JavaScript, HTML, CSS, Tailwind CSS  
 
@@ -25,9 +31,13 @@ Git, GitHub, Axios, Vercel, Render
 ---
 
 ## 📌 Projects
-- **Task Manager App** – Full-stack task management application built with React, Node.js, Express, and MongoDB.  
-- **Notes App** – A CRUD-based notes application with cloud database storage.
+
+**Task Manager App**  
+Full-stack task management application built with React, Node.js, Express, and MongoDB.
+
+**Notes App**  
+A CRUD-based notes application with persistent cloud database storage.
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ *Always learning, building, and improving as a developer.*
